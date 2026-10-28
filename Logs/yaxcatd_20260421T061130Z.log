@@ -1,0 +1,6 @@
+yaxcatd (/Applications/Tableau Desktop (Apple silicon) 2026.1.app/Contents/MacOS/yaxcat/yaxcatd) built at 26ca6db listening on unix:/var/folders/g9/fj5ftx4s23b60tpwkfzhnwz40000gn/T/tableau-temp/LD/1psmqj7142g16y15he2ss1cbu8qa/yaxcatd with 10 worker threads.
+0.005ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.002ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.921ms; [no ensemble]::AggModelServiceImpl::mark_stats: 
+0.004ms; [no ensemble]::AggModelServiceImpl::ping: 
+0.061ms; [no ensemble]::AggModelServiceImpl::mark_stats: 
